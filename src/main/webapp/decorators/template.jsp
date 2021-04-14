@@ -14,9 +14,8 @@
     <%@include file="head.jsp"%>
 </head>
 <body>
-<%@include file="navigation.jsp"%>
-<%@include file="header.jsp"%>
 <decorator:body />
 <%@include file="footer.jsp"%>
+<%@include file="../js/js.jsp"%>
 </body>
 </html>
